@@ -26,10 +26,11 @@ Resumen de la estructura de archivos:
 
 ├── DOCS - Carpeta que contiene la documentación del proyecto 'Jurassic Snap'.
 │   ├── Images - Carpeta que contiene las imágenes de los archivos MD del repositorio.
-│   ├── ReporteProyectoFinal.md - Este archivo contiene el reporte que se nos pidió como documento para la entrega del proyecto.
+│   ├── ReporteProyectoFinal.md - Este archivo contiene el reporte que se nos pidió como documento para la 
+│   ├── entrega del proyecto.
 │   ├── ReporteProyectoFinal.pdf - Renderizado pdf del archivo MD anterior.
-│   ├── InstructionsBooklet.pdf - Manual de instrucciones para el usuario final, se describe en detalle los controles   
-        del programa. (Versión en Español) //Ver si alcanza tiempo para una vs en Inglés.
+│   ├── InstructionsBooklet.pdf - Manual de instrucciones para el usuario final, se describe en detalle 
+│   ├── los controles del programa. (Versión en Español) *Ver si alcanza tiempo para una vers. en Inglés.
 │   └── README.md - Archivo que contiene indicaciones para la instalación del programa.
 ├── README.md **(Archivo que ahora observas)
 └── .gitignore
