@@ -24,7 +24,7 @@ Resumen de la estructura de archivos:
 
 ```bash
 
-├── CGA PF DOCS - Repositorio para la documentación del proyecto 'Jurassic Snap'.
+├── DOCS - Carpeta que contiene la documentación del proyecto 'Jurassic Snap'.
 │   ├── Images - Carpeta que contiene las imágenes de los archivos MD del repositorio.
 │   ├── ReporteProyectoFinal.md - Este archivo contiene el reporte que se nos pidió como documento para la entrega del proyecto.
 │   ├── ReporteProyectoFinal.pdf - Renderizado pdf del archivo MD anterior.
