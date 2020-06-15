@@ -8,11 +8,11 @@
 
 En este repositorio se encuentran los archivos de documentación del proyecto final al cual le denominamos 'Jurassic Snap'. Este documento también contiene los lineamientos del proyecto.
 
-Profesor de la asignatura:
+**Profesor de la asignatura:**
 
 Reynaldo Martell Ávila [(GITHUB)](https://github.com/rmartella)
 
-Integrantes del Proyecto:
+**Integrantes del Proyecto:**
 
 -Barrera Bernal Rodrigo Adalberto [(GITHUB)](https://github.com/Leor8a)
 
