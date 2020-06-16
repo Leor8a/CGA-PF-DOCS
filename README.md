@@ -1,12 +1,11 @@
 # Computación Gráfica Avanzada  
 # Semestre 2020-2
 
-![Circus](Images/circus.png)
-![Circus One](Images/circus2.png)
+![Circus](Images/Title.png)
 
- Repositorio de **Computación gráfica avanzada** para el semestre **2020-2** en el apartado de la documentación, UNAM-2020.
+ Repositorio de **Computación gráfica avanzada** para el semestre **2020-2** en el apartado de la documentación, **UNAM-2020**.
 
-En este repositorio se encuentran los archivos de documentación del proyecto final al cual le denominamos 'Jurassic Snap'. Este documento también contiene los lineamientos del proyecto.
+En este repositorio se encuentran los archivos de la documentación del proyecto final, al cual se le denominó 'Jurassic Snap'. Éste documento también contiene los lineamientos del proyecto.
 
 **Profesor de la asignatura:**
 
@@ -39,35 +38,36 @@ Resumen de la estructura de archivos:
 
 ## Lineamientos:
 
-**Descripción general del proyecto** y algunos lineamientos:
+**Descripción general del proyecto y algunos lineamientos:**
 
-El alumno, presentará como proyecto final, un escenario tridimensional. El proyecto se entragará en día **18 de Junio** a la hora de clase, la entrega del proyecto consiste en lo siguiente:
+El alumno, presentará como proyecto final, un escenario tridimensional. El proyecto se entragará el día **18 de Junio** a la hora de clase, la entrega del proyecto consiste en lo siguiente:
 
 
-1) El código debe estár concentrado en un repositorio git de un integrante del equipo, el código debe ser lo más compacto posible **(No debe contener código de las prácticas)** en un repositorio nuevo.
+1) El código debe estár concentrado en un repositorio git de un integrante del equipo, el código debe ser lo más compacto posible en un repositorio nuevo. **No debe contener código de las prácticas** 
 
-2) En otro repositorio  **toda la documentación** conteniendo en éste:
+2) En otro repositorio **toda la documentación** conteniendo en éste:
 
 
 a. Manual de usuario.
 
 b. Reporte del desarrolo del proyecto
-
-        I. Introducción.
-        II. Objetivo del juego (Gameplay).
-        III. Desarrollo.
-        IV. Resultados y trabajo a futuro.
-        V. Conclusiones.
+       
+       b.1 Introducción.
+       b.2 Objetivo del juego (Gameplay).
+       b.3 Desarrollo.
+       b.4 Resultados y trabajo a futuro.
+       b.5 Conclusiones.
+       
 c. Video del funcionamiento narrado de su juego.
 
 d. Crear los ejecutables
 
 
-3) Se debe mostrar el proyecto el día **18 de Junio** a la hora de clase, cada equipo tendrá 5 minutos.
+3) Se deberá mostrar el proyecto el día **18 de Junio** a la hora de clase, cada equipo tendrá 5 minutos.
 
 
 ## Ligas de Repositorios:
 
-Repositorio de Proyecto Final [Proyecto_Final](https://github.com/rockbarrera/ProyectoCGA_2020_2)
+Repositorio de Proyecto Final [Proyecto Final](https://github.com/rockbarrera/ProyectoCGA_2020_2)
 
-Repositorio que contiene la documentación [Documentación_del_Proyecto](https://github.com/Leor8a/CGA-PF-DOCS)
+Repositorio que contiene la documentación [Documentación del Proyecto Final](https://github.com/Leor8a/CGA-PF-DOCS)
