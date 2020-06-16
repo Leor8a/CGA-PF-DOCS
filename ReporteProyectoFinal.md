@@ -8,8 +8,11 @@ Descripción del documento:
 
 No pretende ser una tesis, pero si una manera de llevar un control sobre lo que se estuvo realizando. Además de que es un recurso para futuros proyectos, pretende que se pongan observaciones acerca de las dificultades para no errar mucho en futuras producciones.
 
+-
 
-##Contenido: 
+Contenido: 
+-
+
 
 **Introducción:**
 <p style='text-align: justify;'> 
