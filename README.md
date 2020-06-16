@@ -13,7 +13,7 @@ Reynaldo Martell Ávila [(GITHUB)](https://github.com/rmartella)
 
 **Integrantes del Proyecto:**
 
--Barrera Bernal Rodrigo Adalberto [(GITHUB)](https://github.com/Leor8a)
+-Barrera Bernal Rodrigo Adalberto [(GITHUB)](https://github.com/rockbarrera)
 
 -Ochoa Ríos Luis Ernesto [(GITHUB)](https://github.com/Leor8a)
 
