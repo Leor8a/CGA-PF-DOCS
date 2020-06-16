@@ -13,15 +13,30 @@ No pretende ser una tesis, pero si una manera de llevar un control sobre lo que 
 
 **Introducción:**
 
+En un breve contexto Parque Jurásico es un referente para hablar de Gráficos por Computadora. No sólamente eso, muchas personas que crecimos en la época y vimos la película en el cine, vimos también cómo promocionaban la película hasta en los noticiarios. Goza de ser de las primeras y pioneras películas en usar gráficos por computadora y no solamente eso, sucede que utiliza una de las primeras versiones de la interfaz que utilizamos en la asignatura, OpenGL. La interfaz con más de 250 funciones diferentes que hizo posible llevar a Mario Bros. al mundo de la tercera dimensión y la que puso en el mapa a Rare, como un fuerte competidor entre las compañías de videojuegos de la época. Al igual que nos trajo animales que vivieron millones y millones de años atrás. Si se investiga un poco en un video de youtube se ven las comparativas de películas con Dinosaurios Hollywoodenses y se nota una gran diferencia cuando Jurassic Park entra al quite.
+
+![SGI](Images/SGI.jpg)
+
+
+Fué en éstas circunstancias y en una máquina que parece de otro mundo o en todo caso un juguete muy caro, donde nace una de las franquicias mayor valuadas hoy día, con proyectos en puerta como el de Dreamworks para Netflix o su próxima película para estrenar, una franquicia que le ha dado a estudios Universal dinero de una forma imprecedente. Los dinosaurios llegaron para quedarse y es una de esas cosas que nos siguen fascinando, tan así es el asunto que en portadas de libros de programación están muy presentes y en muchos de los cuales, se aprenden temas complejos, sin embargo, son conocidos por todos los Nerds a los que les gusta de programar, pero sobre todo, entender conceptos que por sí mismos son complejos
+
+
+![SGI](Images/Compiladores.png)
+ 
+En este contexto, en ese mundo en el que estamos sumergidos y esa fascinación por nuestros amigos dinosaurios fué que se diseño el siguiente proyecto. La francquicia ha dado para comer a muchas personas desde hace 25 años y da de comer a muchos en el presente. Y a como se ve, darán de comer a muchos en el futuro, ni sabía que Lego tenía ya un juego en Wii U con los personajes de la francquicia.
+
+El reto es grande ya que es repasar conceptos no sólo de programación, hay que aprender a utilizar una de las API's más complejas en el mercado, cambiar un paradigma o estilo de  programación al que se nos acostumbra (y lo digo porque no es lo mismo OpenGL a modern OpenGL, ya que el pipeline de renderizado cambia y por mucho). Sin embargo, ha sido uno de los proyectos más divertidos porque aunque parezca que ya acabamos, aparecen más y más cosas que queremos implementar en el mismo. Para no hacer el cuento más largo, establezco algunos de los puntos en los que aprender la plataforma puede ayudarte en el camino de la produccción de videojuegos:
+
+
+ 
 ****
-Mi
+
 
 ****
 Extracto de página web:
 La casa Luis Barragán, construida en 1948, represen
 ****
 
-Entre las obras del ingeniero arquitecto Barragán destacan "Las torres de satélite", en 1957 fue invitado por la empresa que desarrollo ciudad Satélite para constituir el símbolo de la urbanización, para el cual Barragán, ya con la idea definida de que consistiera en un grupo de elementos verticales de gran proyección publicitaria, invitó al escultor Mathías Goeritz a colaborar en el desarrollo del proyecto. 
 
 
 Desarrollo del Proyecto
@@ -33,9 +48,7 @@ Desarrollo del Proyecto
 
 ****
 
-Se empezó por desarrollar un pequeño programa donde se reprodujera un archivo de audio, posteriormente se agregó al mundo virtual. La biblioteca indicaba que se podía proporcionar una ubicación tridimensional de las fuentes de audio y es por ello que se integró al proyecto.
 
-La biblioteca utilizada fué **irrKlang**, su integración al proyecto fué mucho más rápida a comparación de **OpenAL**, se intentó realizar con esa biblioteca varios proyectos chicos y similares, pero en el ambiente de MacOS todo se estaba complicando, y es por ello que se optó por la primer opción ya que con ésta si se pudo realizar algo sencillo y rápido para poder utilizarlo de la manera más rápida posible.
 
 En la carpeta de Miniprog está el **primer mini proyecto** que se realizó con la biblioteca se llama:
 
@@ -46,6 +59,6 @@ En la carpeta de Miniprog está el **primer mini proyecto** que se realizó con 
 
 ****
 
-**Carga de modelos:**
+**Edición de Modelos:**
 
 ****

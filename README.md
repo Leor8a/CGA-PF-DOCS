@@ -1,7 +1,7 @@
 # Computación Gráfica Avanzada  
 # Semestre 2020-2
 
-![Circus](Images/Title.png)
+![Jurassic Snap](Images/Title.png)
 
  Repositorio de **Computación gráfica avanzada** para el semestre **2020-2** en el apartado de la documentación, **UNAM-2020**.
 
