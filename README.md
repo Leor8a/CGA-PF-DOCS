@@ -27,10 +27,13 @@ Resumen de la estructura de archivos:
 │   ├── Images - Carpeta que contiene las imágenes de los archivos MD del repositorio.
 │   ├── ReporteProyectoFinal.md - Este archivo contiene el reporte que se nos pidió como documento para la 
 │   ├── entrega del proyecto.
-│   ├── ReporteProyectoFinal.pdf - Renderizado pdf del archivo MD anterior.
-│   ├── InstructionsBooklet.pdf - Manual de instrucciones para el usuario final, se describe en detalle 
 │   ├── los controles del programa. (Versión en Español) *Ver si alcanza tiempo para una vers. en Inglés.
-│   └── README.md - Archivo que contiene indicaciones para la instalación del programa.
+│   └── INSTALL_GUIDE.md - Archivo que contiene indicaciones para la instalación del programa.
+├── RENDERS - Carpeta que contiene todos los archivos md en PDF.
+│   ├── Reporte.pdf - Reporte de proyecto Final en PDF.
+│   ├── ReporteProyectoFinal.pdf - Renderizado pdf del archivo MD anterior.
+│   ├── InstructionsBooklet.pdf - Manual de instrucciones para el usuario final. Version PDF.
+│   └── INSTALL_GUIDE.pdf - Rednderizado de indicaciones para la instalación del programa.
 ├── README.md **(Archivo que ahora observas)
 └── .gitignore
 
