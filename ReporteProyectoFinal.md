@@ -38,34 +38,34 @@ En este contexto, en ese mundo en el que estamos sumergidos y esa fascinación p
 El reto es grande ya que es repasar conceptos no sólo de programación (véase Gráfica anexa), hay que aprender a utilizar una de las API's más complejas en el mercado, cambiar un paradigma o estilo de  programación al que se nos acostumbra (y lo digo porque no es lo mismo <b>OpenGL</b> a <b>Modern OpenGL</b>, el cuál se nos introduce en la materia antescedente a ésta), el pipeline de renderizado cambia y por mucho. Sin embargo, ha sido uno de los proyectos más divertidos porque aunque parezca que ya acabamos, aparecen más y más cosas, más cosas que queremos implementar en el mismo y la verdad es que no se haya el tiempo. Para no hacer el cuento más largo, se establecen algunos de los puntos que rescatar de la plataforma y el porque aprender de ésta puede ayudarte en el camino de la produccción de videojuegos:
 </p>
 
+
  
 ****
+Objetivo del juego (Gameplay).
+-
 
+Desarrollo del Proyecto
+-
+****
 
+**Edición de Modelos:**
 
 ****
 
-
-Desarrollo del Proyecto
+Resultados y trabajo a futuro.
 -
 
 
 
-**Integración de audio en el proyecto:**
+
+
+
+
+Conclusiones Personales
+-
 
 ****
 
-
-
-En la carpeta de Miniprog está el **primer mini proyecto** que se realizó con la biblioteca se llama:
-
-'helloIrrKlang' 
-
-¿Qué hace? Reproduce un archivo de sonido con un loop infinito. Si presionas una tecla distinta a 'q' reproduce un pequeño efecto de sonido.
-
-
-****
-
-**Edición de Modelos:**
+**Conclusiones :**
 
 ****
