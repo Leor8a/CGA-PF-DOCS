@@ -63,9 +63,16 @@ Resultados y trabajo a futuro.
 
 Conclusiones Personales
 -
+****
+
+**Conclusiones Luis Ernesto Ochoa Ríos:**
 
 ****
 
-**Conclusiones :**
+
+
+****
+
+**Conclusiones Luis Ernesto Ochoa Ríos:**
 
 ****
