@@ -90,16 +90,28 @@ Resultados y trabajo a futuro.
 
 Conclusiones Personales
 -
-****
+
 
 **Conclusiones Barrera Bernal Rodrigo Adalberto:**
 
 ****
-
-
+En el desarrollo del proyecto final pudimos aplicar prácticamente todos los conceptos vistos durante el curso de computación gráfica avanzada.
+Hubo algunos problemas a la hora de hacer implementaciones en el desarrollo, pero éstos problemas se fueron solucionando conforme fue avanzando
+el proyecto, como por ejemplo el tiro parabólico para que el personaje lanzara la carne o hacer que la cámara fotográfica del personaje tomara 
+fotografías que son almacenadas dentro de una de las carpetas del ejecutable. Muchos de los movimientos de los dinosaurios fueron solucionados con
+máquinas de estados, que implementan las trayectorias de los mismos. La interacción del dinosaurio con la carne fue solucionada haciendo que la colisión
+se detectara siempre y cuando se haya aventado una carne al dinosaurio.
+Todo lo visto durante el curso, se puede aplicar sin problemas a la industria de los videojuegos de una manera competitiva, y se le puede añadir también
+un motor físico que le puede mejorar bastante la interacción dentro del videojuego, Bullet es un ejemplo. Aún así, lo que existe en la API de OpenGL tiene mucho que ofrecer.
+Otra parte que vimos durante el desarrollo del proyecto, fue que entre más elementos se pongan dentro del videojuego, más recursos exige de la computadora
+para poder funcionar de manera óptima y fluída. Ésto se vio reflejado a la hora de poner las luces de las antorchas de la puerta principal. El proyecto
+fue bastante interesante debido a que exigió resolver cierta cantidad de problemas que al final dieron el resultado que se estaba esperando, pudiendo crear
+una buena armonía dentro del videojuego.
 
 ****
 
 **Conclusiones Luis Ernesto Ochoa Ríos:**
 
 ****
+dbvdhiii
+
