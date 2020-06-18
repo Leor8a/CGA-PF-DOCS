@@ -63,11 +63,18 @@ El desarrollo se generó por lo general en la mayor parte de su tiempo (casi fue
     <img src="Images/LOGO.jpeg" alt="SGI" width="480" height="260" />
 </p>
 
+La idea era o es que con una imágen se venda el producto y creemos que si lo hace. Sin tener que dar mucha explicación se supone se tiene que vender la idea y el producto en si. Se pasaron por muchas dificultades cosas como el no recordar que hay que volver relativas las rutas de los modelos si realmente queremos pasar las texturas a las animaciones con formato FBX. Hasta complicaciones con el código y de que forma se estaba estructurando.
+
+
 ****
 
 **Edición de Modelos:**
 
 ****
+
+<p align="center">
+    <img src="Images/Collage.png" alt="SGI" width="750" height="750" />
+</p>
 
 ****
 
