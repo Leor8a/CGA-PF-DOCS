@@ -75,12 +75,8 @@ La idea era o es que con una imágen se venda el producto y creemos que si lo ha
     <img src="Images/Collage.png" alt="SGI" width="750" height="750" />
 </p>
 
-****
 
-**Estructura de Código:**
-
-****
-
+En el código se ven los cambios muy claros en el Github, fueron bastantes cambios que delimitan no solamente la funcionalidad de que se sacara la fotografía, sino también el lanzamiento de la carne, con la ecuación parabólica. Se intentó 
 
 
 Resultados y trabajo a futuro.
@@ -90,12 +86,11 @@ Fueron varias cosas las que se lograron al final del desarrollo del proyecto. Se
 
 El proyecto esperemos que no se qude sólo en un proeyecto escolar, habrá que echar mano de varias cosas más. Nos quedamos con ganas e aprender CMake para generar el proyecto para múltiples plataformas y así agilizar y tener presencia en una de las tantas plataformas de distribución como Steam. Saber publicar, hacer marketing y promoción del producto también es algo fundamental y que va lejos del scope de nuestras capacidades pero creemos que teniendo un buen producto, ésto fácilmente se podría lograr, lógicamente con la ayuda de otras personas que son especialistas en el tema.
 
-El gran problema de este proyecto radica en varios factores, uno de ellos es el elegir dos temas de las más grandes franquicias en el mercado. Ya existen muchos videojuegos con dinosaurios, de Jurassic Park o de Pokemón. Sin embargo, creemos que Pokemon Snap no está del todo explorado y hay muchos más elementos que se podrían probar. Siendo que en Pokemon Snap es un recorrido guiado y esa limitante facilita mucho la producción de este tipo de experiencias. Ya que no hay que hacer detección de colisiones ni nada por el estilo. Si se realizara lo mismo sin un camino guiado y se aplicara el concepto 'Open World', todo cambiaría pero también al hacerlo bajo ese esquema también su costo. Al final, son horas hombre las que harían al final del día el trabajo. Igual todo esto se podría trasladar a una aplicación de Realidad Virtual pero eso implicarían más tiempo, conocer como funcionan los gráficos, búsqueda de herramientas para cada plataforma, tiempos de desarrollo, etc. Si podemos hacer algo con lo que ya tenemos se hace, pero sobretodo como nada es permanente en cuestiones de código y casi cualquier cosa posible, poruqe no aventurarse a hacer los sistemas mas modulables, y más adeptos a muchos otros sistemas. Como un sistema de niveles, o de menús o en este caso de pantallas. Hay mucho que trabajar todavía y consideraríamos que no está del todo terminado. 
+El gran problema de este proyecto radica en varios factores, uno de ellos es el elegir dos temas de las más grandes franquicias en el mercado. Ya existen muchos videojuegos con dinosaurios, de Jurassic Park o de Pokemón. Sin embargo, creemos que Pokemon Snap no está del todo explorado y hay muchos más elementos que se podrían probar. Siendo que en Pokemon Snap es un recorrido guiado y esa limitante facilita mucho la producción de este tipo de experiencias. Ya que no hay que hacer detección de colisiones ni nada por el estilo. Si se realizara lo mismo sin un camino guiado y se aplicara el concepto 'Open World', todo cambiaría pero también al hacerlo bajo ese esquema también su costo. Al final, son horas hombre las que harían al final del día el trabajo. Igual todo esto se podría trasladar a una aplicación de Realidad Virtual pero eso implicarían más tiempo, conocer como funcionan los gráficos, búsqueda de herramientas para cada plataforma, tiempos de desarrollo, etc. Si podemos hacer algo con lo que ya tenemos se hace, pero sobretodo como nada es permanente en cuestiones de código y casi cualquier cosa posible, poruqe no aventurarse a hacer los sistemas mas modulables, y más adeptos a muchos otros sistemas. Como un sistema de niveles, o de menús o en este caso de pantallas. Hay mucho que trabajar todavía y consideraríamos que no está del todo terminado.
 
 
 Conclusiones Personales
 -
-
 
 **Conclusiones Barrera Bernal Rodrigo Adalberto:**
 
