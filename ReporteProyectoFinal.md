@@ -75,8 +75,13 @@ La idea era o es que con una imágen se venda el producto y creemos que si lo ha
     <img src="Images/Collage.png" alt="SGI" width="750" height="750" />
 </p>
 
+****
 
-En el código se ven los cambios muy claros en el Github, fueron bastantes cambios que delimitan no solamente la funcionalidad de que se sacara la fotografía, sino también el lanzamiento de la carne, con la ecuación parabólica. Se intentó 
+**Edición de Código:**
+
+****
+
+En el código se ven los cambios muy claros en el Github, fueron bastantes cambios que delimitan no solamente la funcionalidad de que sacara la fotografía sino también el lanzamiento de la carne, con la ecuación parabólica. El correcto funcionamiento de las partículas y además se hiba a implementar que la esfera del skybox girara un poco pero ya no se hizo al final ya que estabamos pendientes de que corriera bien con los recursos con los que contábamos. 
 
 
 Resultados y trabajo a futuro.
