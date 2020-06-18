@@ -46,18 +46,32 @@ El reto es grande porque somos dos personas contra un ejército de Japoneses que
 
 Objetivo del juego (Gameplay).
 -
-Basta con ver el video del nuevo trailer de Pokemon Snap, el gameplay yo creo a diferencia de éste se basará en la **exploración** y en gozar de **tomar fotografías**. No es más que eso, no lo puedo describir con palabras por que no va más allá de eso. Lógicamente se meten elementos de 'sólo tienes un número limitado de fotografías' o coas por el estilo, el gran problema aqui es que ese tipo de elementos **llevan su tiempo implementar**. 
+Basta con ver el video del nuevo trailer de Pokemon Snap, el gameplay yo creo a diferencia de éste se basará en la **exploración** y en gozar de **tomar fotografías**. No es más que eso, no lo puedo describir con palabras por que no va más allá de eso. Lógicamente se meten elementos de 'sólo tienes un número limitado de fotografías' o cosas por el estilo, el gran problema aquí es que ese tipo de elementos **llevan su tiempo de implementación**. 
 
-Uno de los objetivos importantes que se pusieron en un principio en la mesa, fué lograr una captura de pantalla de la ventana LGFW. Para tener uno de los elementos principales del videojuego, capturar instantes. Ya se detallará más a delante en éste documento si lo logramos o no. 
+Uno de los objetivos importantes que se pusieron en un principio en la mesa, fué lograr una captura de pantalla de la ventana GLFW. Para tener uno de los elementos principales del videojuego, capturar instantes. Ya se detallará más a delante en éste documento si lo logramos o no. Otro de los aspectos importantes, fué lanzar una carne para que cuando los dinosaurios estén en un rango medianamente cerca, se animaran y simularan comerse la carne.
 
 
 Desarrollo del Proyecto
 -
 
+<p align="center">
+    <img src="Images/visitor.png" alt="SGI" width="480" height="260" />
+</p>
+El desarrollo se generó por lo general en la mayor parte de su tiempo (casi fueron 3 meses de producción, no muy constante pero si con varios sprints) en los meses de Abril, Mayo y Junio del presente año, como parte de las actividades de la materia de Computación Gráfica Avanzada, asignatura impartida por el profesor Reynaldo Martell Ávila en la facultad de ingeniería de la UNAM, CU. El proyecto en su mayor parte o mejor dicho el engine que se usó fué el que el mismo profesor generó con su experiencia en OpenGL, éste mismo lo utilizó para dar los temas de la materia y profundizar en los detalles importantes que teníamos que tener en cuenta al generar el proyecto.
+
+<p align="center">
+    <img src="Images/LOGO.jpeg" alt="SGI" width="480" height="260" />
+</p>
 
 ****
 
 **Edición de Modelos:**
+
+****
+
+****
+
+**Estructura de Código:**
 
 ****
 
