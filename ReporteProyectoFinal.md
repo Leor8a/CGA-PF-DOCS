@@ -46,10 +46,15 @@ El reto es grande porque somos dos personas contra un ejército de Japoneses que
 
 Objetivo del juego (Gameplay).
 -
+Basta con ver el video del nuevo trailer de Pokemon Snap, el gameplay yo creo a diferencia de éste se basará en la **exploración** y en gozar de **tomar fotografías**. No es más que eso, no lo puedo describir con palabras por que no va más allá de eso. Lógicamente se meten elementos de 'sólo tienes un número limitado de fotografías' o coas por el estilo, el gran problema aqui es que ese tipo de elementos **llevan su tiempo implementar**. 
+
+Uno de los objetivos importantes que se pusieron en un principio en la mesa, fué lograr una captura de pantalla de la ventana LGFW. Para tener uno de los elementos principales del videojuego, capturar instantes. Ya se detallará más a delante en éste documento si lo logramos o no. 
 
 
 Desarrollo del Proyecto
 -
+
+
 ****
 
 **Edición de Modelos:**
