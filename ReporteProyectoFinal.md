@@ -16,7 +16,7 @@ Contenido:
 
 En un breve contexto Parque Jurásico es un referente para hablar de Gráficos por Computadora. No sólamente eso, muchas personas que crecimos en la época y vimos la película en el cine, vimos también cómo promocionaban la película hasta en los noticiarios. Goza de ser de las primeras y pioneras películas en usar gráficos por computadora y no solamente eso, sucede que utiliza una de las primeras versiones de la interfaz que utilizamos en la asignatura, OpenGL. La interfaz con más de 250 funciones diferentes que hizo posible llevar a 'Mario Bros' al mundo de la tercera dimensión y la que puso en el mapa a Rare, como un fuerte competidor entre las compañías de videojuegos de la época. Al igual que nos trajo animales que vivieron millones y millones de años atrás. Si se investiga un poco en un video de youtube[^1] se ve una cronología de películas con Dinosaurios y se nota una gran diferencia cuando Jurassic Park entra al quite. 
 
-[^1]: Esto es una nota al pie de página.
+[^1]: [Evolución de los dinos en el Cine](https://www.youtube.com/watch?v=5hxSws2W0-E)
 
 
 <p align="center">
@@ -88,8 +88,7 @@ Fueron varias cosas las que se lograron al final del desarrollo del proyecto. Se
 
 El proyecto esperemos que no se qude sólo en un proeyecto escolar, habrá que echar mano de varias cosas más. Nos quedamos con ganas e aprender CMake para generar el proyecto para múltiples plataformas y así agilizar y tener presencia en una de las tantas plataformas de distribución como Steam. Saber publicar, hacer marketing y promoción del producto también es algo fundamental y que va lejos del scope de nuestras capacidades pero creemos que teniendo un buen producto, ésto fácilmente se podría lograr, lógicamente con la ayuda de otras personas que son especialistas en el tema.
 
-El gran problema de este proyecto radica en varios factores, uno de ellos es el elegir temas de dos de las más grandes franquicias en el mercado. Ya existen muchos videojuegos con dinosaurios, de Jurassic Park o de Pokemón. Sin embargo, creemos que Pokemon Snap no está del todo explorado y hay muchos más elementos que se podrían probar. Siendo que en Pokemon Snap es un recorrido guiado y esa limitante facilita mucho la producción de este tipo de experiencias. Ya que no hay que hacer detección de colisiones ni nada por el estilo.
-
+El gran problema de este proyecto radica en varios factores, uno de ellos es el elegir dos temas de las más grandes franquicias en el mercado. Ya existen muchos videojuegos con dinosaurios, de Jurassic Park o de Pokemón. Sin embargo, creemos que Pokemon Snap no está del todo explorado y hay muchos más elementos que se podrían probar. Siendo que en Pokemon Snap es un recorrido guiado y esa limitante facilita mucho la producción de este tipo de experiencias. Ya que no hay que hacer detección de colisiones ni nada por el estilo. Si se realizara lo mismo sin un camino guiado y se aplicara el concepto 'Open World', todo cambiaría pero también al hacerlo bajo ese esquema también su costo. Al final, son horas hombre las que harían al final del día el trabajo. Igual todo esto se podría trasladar a una aplicación de Realidad Virtual pero eso implicarían más tiempo, conocer como funcionan los gráficos, búsqueda de herramientas para cada plataforma, tiempos de desarrollo, etc. Si podemos hacer algo con lo que ya tenemos se hace, pero sobretodo como nada es permanente en cuestiones de código y casi cualquier cosa posible, poruqe no aventurarse a hacer los sistemas mas modulables, y más adeptos a muchos otros sistemas. Como un sistema de niveles, o de menús o en este caso de pantallas. Hay mucho que trabajar todavía y consideraríamos que no del todo terminado. 
 
 
 Conclusiones Personales
@@ -99,20 +98,14 @@ Conclusiones Personales
 **Conclusiones Barrera Bernal Rodrigo Adalberto:**
 
 ****
-En el desarrollo del proyecto final pudimos aplicar prácticamente todos los conceptos vistos durante el curso de computación gráfica avanzada. Hubo algunos problemas a la hora de hacer implementaciones en el desarrollo, pero éstos problemas se fueron solucionando conforme fue avanzando el proyecto, como por ejemplo el tiro parabólico para que el personaje lanzara la carne o hacer que la cámara fotográfica del personaje tomara fotografías que son almacenadas dentro de una de las carpetas del ejecutable. Muchos de los movimientos de los dinosaurios fueron solucionados con
-máquinas de estados, que implementan las trayectorias de los mismos. La interacción del dinosaurio con la carne fue solucionada haciendo que la colisión
-se detectara siempre y cuando se haya aventado una carne al dinosaurio.
-Todo lo visto durante el curso, se puede aplicar sin problemas a la industria de los videojuegos de una manera competitiva, y se le puede añadir también
-un motor físico que le puede mejorar bastante la interacción dentro del videojuego, Bullet es un ejemplo. Aún así, lo que existe en la API de OpenGL tiene mucho que ofrecer.
-Otra parte que vimos durante el desarrollo del proyecto, fue que entre más elementos se pongan dentro del videojuego, más recursos exige de la computadora
-para poder funcionar de manera óptima y fluída. Ésto se vio reflejado a la hora de poner las luces de las antorchas de la puerta principal. El proyecto
-fue bastante interesante debido a que exigió resolver cierta cantidad de problemas que al final dieron el resultado que se estaba esperando, pudiendo crear
-una buena armonía dentro del videojuego.
+En el desarrollo del proyecto final pudimos aplicar prácticamente todos los conceptos vistos durante el curso de computación gráfica avanzada. Hubo algunos problemas a la hora de hacer implementaciones en el desarrollo, pero éstos problemas se fueron solucionando conforme fue avanzando el proyecto, como por ejemplo el tiro parabólico para que el personaje lanzara la carne o hacer que la cámara fotográfica del personaje tomara fotografías que son almacenadas dentro de una de las carpetas del ejecutable. Muchos de los movimientos de los dinosaurios fueron solucionados con máquinas de estados, que implementan las trayectorias de los mismos. La interacción del dinosaurio con la carne fue solucionada haciendo que la colisión se detectara siempre y cuando se haya aventado una carne al dinosaurio.
+
+Todo lo visto durante el curso, se puede aplicar sin problemas a la industria de los videojuegos de una manera competitiva, y se le puede añadir también un motor físico que le puede mejorar bastante la interacción dentro del videojuego, Bullet es un ejemplo. Aún así, lo que existe en la API de OpenGL tiene mucho que ofrecer.
+Otra parte que vimos durante el desarrollo del proyecto, fue que entre más elementos se pongan dentro del videojuego, más recursos exige de la computadora para poder funcionar de manera óptima y fluída. Ésto se vio reflejado a la hora de poner las luces de las antorchas de la puerta principal. El proyecto fue bastante interesante debido a que exigió resolver cierta cantidad de problemas que al final dieron el resultado que se estaba esperando, pudiendo crear una buena armonía dentro del videojuego.
 
 ****
 
 **Conclusiones Luis Ernesto Ochoa Ríos:**
-
 ****
-dbvdhiii
+Hacer 3D no es nada fácil, debo de admitir que sin la ayuda de su engine el trabajo hubiese sido aún mayor, de hecho lo es. Dominar los conceptos del libro rojo y del libro naranja no es nada fácil. Además de que las bases en C++ deben de estar bien fundamentadas. En el desarrollo del proyecto hubo muchas paredes, quise compilar en codeblocks y hay que configurar todo un ambiente, así que desistí. Quise hacer el blendind del Skybox y no se pudo. En parte porque necesitaba hacer pruebas en código que entendiera a mi cabalidad y sigo sin entender muchas cosas del código. El smestre pasado, de que llevé Computación Gráfica con 
 
