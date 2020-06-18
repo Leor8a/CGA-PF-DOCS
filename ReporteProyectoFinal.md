@@ -57,14 +57,13 @@ Desarrollo del Proyecto
 <p align="center">
     <img src="Images/Visitor.png" alt="SGI" width="480" height="260" />
 </p>
-El desarrollo se generó por lo general en la mayor parte de su tiempo (casi fueron 3 meses de producción, no muy constante pero si con varios sprints) en los meses de Abril, Mayo y Junio del presente año, como parte de las actividades de la materia de Computación Gráfica Avanzada, asignatura impartida por el profesor Reynaldo Martell Ávila en la facultad de ingeniería de la UNAM, CU. El proyecto en su mayor parte o mejor dicho el engine que se usó fué el que el mismo profesor generó con su experiencia en OpenGL, éste mismo lo utilizó para dar los temas de la materia y profundizar en los detalles importantes que teníamos que tener en cuenta al generar el proyecto.
+El desarrollo se generó en la mayor parte de su tiempo (en casi 3 meses de producción, no muy constante pero si con varios sprints) en los meses de Abril, Mayo y Junio del presente año, como parte de las actividades de la materia de Computación Gráfica Avanzada, asignatura impartida por el profesor Reynaldo Martell Ávila en la facultad de ingeniería - UNAM, CU. El proyecto en su mayor parte o mejor dicho el engine que se usó fué el que el mismo profesor generó con su experiencia en OpenGL, éste mismo lo utilizó para dar los temas de la materia y profundizar en los detalles importantes que teníamos que tener en cuenta al generar el proyecto. Una de las máximas que también se proyectaron en un inicio para tener el producto mínimo viable, fué en la especialización y en los roles de los integrantes. No se si han visto esa película del fundador de McDonald's interpretada por Michael Keaton, pero lo que proyectan en la película es cómo es que hicieron que un restaurante funcionara como fábrica de automóviles de Ford. Algo así sucedió, en el proyecto. Luis Ernesto se enfocó en sacar y en pelearse con los modelos, desde su Modelado, Texturizado, Animación, etc. y Rodrigo se enfocó en la parte de la programación del proyecto. 
 
 <p align="center">
     <img src="Images/LOGO.jpeg" alt="SGI" width="480" height="260" />
 </p>
 
-La idea era o es que con una imágen se venda el producto y creemos que si lo hace. Sin tener que dar mucha explicación se supone se tiene que vender la idea y el producto en si. Se pasaron por muchas dificultades cosas como el no recordar que hay que volver relativas las rutas de los modelos si realmente queremos pasar las texturas a las animaciones con formato FBX. Hasta complicaciones con el código y de que forma se estaba estructurando.
-
+La idea era o es que con una imágen se venda el producto y creemos que si lo hace. Sin tener que dar mucha explicación se supone se tiene que vender la idea y el producto en si. Se pasaron por muchas dificultades, cosas como el no recordar que hay que volver relativas las rutas de los modelos si realmente queremos pasar las texturas a las animaciones con formato FBX. Hasta complicaciones con el código, en materia de implementar fórmulas para simular el tiro parabólico de varios cuerpos geométricos.
 
 ****
 
@@ -85,6 +84,11 @@ La idea era o es que con una imágen se venda el producto y creemos que si lo ha
 Resultados y trabajo a futuro.
 -
 
+Fueron varias cosas las que se lograron al final del desarrollo del proyecto. Se logró capturar una imágen de la pantalla y que ésta se almacenara en una carpeta del proyecto. Hace falta retribuir la imágen y mostrarla en la pantalla para que el usuario pueda observarla, pero para esto hay que implementar un sistema GUI lo cuál implican horas de trabajo y decidimos enfocarnos en otros elementos más importantes. Se logró hacer el tiro parabólico de una carne y se logró la detección con el dinosaurio para que éste se detuviera por un instante.
+
+El proyecto esperemos que no se qude sólo en un proeyecto escolar, habrá que echar mano de varias cosas más. Nos quedamos con ganas e aprender CMake para generar el proyecto para múltiples plataformas y así agilizar y tener presencia en una de las tantas plataformas de distribución como Steam. Saber publicar, hacer marketing y promoción del producto también es algo fundamental y que va lejos del scope de nuestras capacidades pero creemos que teniendo un buen producto, ésto fácilmente se podría lograr, lógicamente con la ayuda de otras personas que son especialistas en el tema.
+
+El gran problema de este proyecto radica en varios factores, uno de ellos es el elegir temas de dos de las más grandes franquicias en el mercado. Ya existen muchos videojuegos con dinosaurios, de Jurassic Park o de Pokemón. Sin embargo, creemos que Pokemon Snap no está del todo explorado y hay muchos más elementos que se podrían probar. Siendo que en Pokemon Snap es un recorrido guiado y esa limitante facilita mucho la producción de este tipo de experiencias. Ya que no hay que hacer detección de colisiones ni nada por el estilo.
 
 
 
@@ -95,10 +99,7 @@ Conclusiones Personales
 **Conclusiones Barrera Bernal Rodrigo Adalberto:**
 
 ****
-En el desarrollo del proyecto final pudimos aplicar prácticamente todos los conceptos vistos durante el curso de computación gráfica avanzada.
-Hubo algunos problemas a la hora de hacer implementaciones en el desarrollo, pero éstos problemas se fueron solucionando conforme fue avanzando
-el proyecto, como por ejemplo el tiro parabólico para que el personaje lanzara la carne o hacer que la cámara fotográfica del personaje tomara 
-fotografías que son almacenadas dentro de una de las carpetas del ejecutable. Muchos de los movimientos de los dinosaurios fueron solucionados con
+En el desarrollo del proyecto final pudimos aplicar prácticamente todos los conceptos vistos durante el curso de computación gráfica avanzada. Hubo algunos problemas a la hora de hacer implementaciones en el desarrollo, pero éstos problemas se fueron solucionando conforme fue avanzando el proyecto, como por ejemplo el tiro parabólico para que el personaje lanzara la carne o hacer que la cámara fotográfica del personaje tomara fotografías que son almacenadas dentro de una de las carpetas del ejecutable. Muchos de los movimientos de los dinosaurios fueron solucionados con
 máquinas de estados, que implementan las trayectorias de los mismos. La interacción del dinosaurio con la carne fue solucionada haciendo que la colisión
 se detectara siempre y cuando se haya aventado una carne al dinosaurio.
 Todo lo visto durante el curso, se puede aplicar sin problemas a la industria de los videojuegos de una manera competitiva, y se le puede añadir también
