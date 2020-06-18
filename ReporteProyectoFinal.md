@@ -55,7 +55,7 @@ Desarrollo del Proyecto
 -
 
 <p align="center">
-    <img src="Images/visitor.png" alt="SGI" width="480" height="260" />
+    <img src="Images/Visitor.png" alt="SGI" width="480" height="260" />
 </p>
 El desarrollo se generó por lo general en la mayor parte de su tiempo (casi fueron 3 meses de producción, no muy constante pero si con varios sprints) en los meses de Abril, Mayo y Junio del presente año, como parte de las actividades de la materia de Computación Gráfica Avanzada, asignatura impartida por el profesor Reynaldo Martell Ávila en la facultad de ingeniería de la UNAM, CU. El proyecto en su mayor parte o mejor dicho el engine que se usó fué el que el mismo profesor generó con su experiencia en OpenGL, éste mismo lo utilizó para dar los temas de la materia y profundizar en los detalles importantes que teníamos que tener en cuenta al generar el proyecto.
 
